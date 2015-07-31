@@ -21,6 +21,7 @@
   "homepage": "https://github.com/fbrusch/code-distance",
   "dependencies": {
     "coffee-script": "^1.9.3",
+    "lodash": "^3.10.0",
     "mocha": "^2.2.5"
   },
   "devDependencies": {
