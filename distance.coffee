@@ -1,4 +1,4 @@
-_ = require 'underscore'
+_ = require 'lodash'
 
 distance = (codeTokens1, codeTokens2) ->
 	
