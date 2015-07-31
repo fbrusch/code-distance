@@ -2,7 +2,7 @@
   "name": "code-distance",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/distance.js",
   "directories": {
     "test": "test"
   },
@@ -25,6 +25,7 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "assert": "^1.3.0"
+    "assert": "^1.3.0",
+    "coffee-script": "^1.9.3"
   }
 }
